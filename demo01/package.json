@@ -2,15 +2,15 @@
   "name": "demo01",
   "version": "1.0.0",
   "description": "npm modules demo1",
-  "main": "01_self.js",
+  "main": "demo01.js",
   "scripts": {
-    "test": "node demo01_npm_modules.js"
+    "test": "node demo01.js"
   },
   "author": "su",
   "license": "MIT",
   "dependencies": {
-    "gulp": "^3.9.1",
-    "gulp-less": "^3.3.0",
-    "less": "^2.7.2"
+    "gulp": "3.*",
+    "gulp-less": "3.*",
+    "less": "2.*"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "name": "demo02",
+  "version": "1.0.0",
+  "description": "npm modules demo2",
+  "main": "demo02.js",
+  "scripts": {
+    "test": "node demo02.js"
+  },
+  "author": "su",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.23.1",
+    "babel-preset-stage-3": "^6.22.0"
+  }
+}
