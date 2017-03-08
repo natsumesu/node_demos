@@ -1,0 +1,11 @@
+{
+  "name": "demo03",
+  "version": "1.0.0",
+  "description": "npm modules demo03",
+  "main": "demo03.js",
+  "scripts": {
+    "test": "node demo03.js"
+  },
+  "author": "su",
+  "license": "MIT"
+}
